@@ -1,1 +1,4 @@
 Jay Shree Krishna!!!
+Hello world
+Take input from the user
+Add the value
